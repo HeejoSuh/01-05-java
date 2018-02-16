@@ -22,7 +22,7 @@ import java.util.Random;
 public class DiceGame {
 
     public static void main(String[] args) {
-    	//Dice game
+    	//Get time required to microwave different types and numbers of snacks
     	
     	//set up a scanner to get the response from the user
     	Scanner scanner = new Scanner(System.in);
@@ -76,8 +76,6 @@ public class DiceGame {
     		
     	}//closing for while
     	
-	    		
-    			
     
     }//closing for public main
 }//closing for public class DiceGame
